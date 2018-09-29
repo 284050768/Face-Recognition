@@ -10,3 +10,5 @@
 特征提取耗时: 109 毫秒;
 比对10000次用时: 1063 毫秒;
 识别率>99.8%;
+
+C#版Demo见：https://github.com/284050768/Face-Recognition-sdk
